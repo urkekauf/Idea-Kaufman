@@ -182,14 +182,14 @@ section {
     transform: scale(1.1);
 }
 
-.pricing i{
+/* .pricing i{
     font-size:20px;
     color:var(--primary);
 }
 
 .pricing ul li {
     margin-top:8px;
-}
+} */
 
 .team-member img{
     width:125px;
